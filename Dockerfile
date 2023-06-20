@@ -1,5 +1,5 @@
 FROM ubuntu
-LABEL org.opencontainers.image.source=https://github.com/WTF0v3r/privategpt
+LABEL org.opencontainers.image.source=https://github.com/wtf0v3r/privategpt
 EXPOSE 3000 5000
 
 RUN     apt update && \
